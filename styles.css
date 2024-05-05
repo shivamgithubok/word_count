@@ -1,0 +1,31 @@
+body {
+ margin: 0px;
+ padding: 0px;
+}
+h1{
+    background-color: blue;
+    max-width: 70%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    height: 50px;
+    font-size: 44px;
+    margin-bottom: 0px;
+}
+#text{
+    width: 888px;
+    margin-left: 193px;
+    font-size: 30px;
+    height: 311px;
+}
+p{
+    background-color: blue;
+    max-width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 26px;
+    margin-top: -4px;
+    height: 30px;
+    font-weight: bolder;
+}
